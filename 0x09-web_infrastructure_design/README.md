@@ -50,7 +50,7 @@
 </ul>
 </details>
 
-## Authors :Kelvin Mutuku & Irene Chebet:
+## Authors :Kelvin Mutuku & Irene-Chebet:
 
 * __Kelvin Mutuku__ <https://github.com/KelvinMutuku>
-* __Irene Chebet__ <https://github.com/IreneChebet>
+* __Irene-Chebet__ <https://github.com/Irene-Chebet>
