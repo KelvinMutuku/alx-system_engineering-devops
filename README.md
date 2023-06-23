@@ -1,7 +1,7 @@
 # System Engineering and DevOps - Bash, Scripting, Web Stack/Web Stack Debugging, Networking & Security, CI/CD
 
-This repository contains programs written for the system engineering and DevOps
-In these projects, I worked with Bash and practiced
+This repository contains programs written for system engineering and DevOps
+I worked with Bash on these projects and practiced
 writing Bash scripts to automate tasks. I learned about the OSI model and
 various Linux networking tools. Further, I configured a distributed system 
 contained follows:
@@ -16,7 +16,9 @@ contained follows:
 * [0x07. Networking basics #0](./0x07-networking_basics)
 * [0x08. Networking basics #1](./0x08-networking_basics_2)
 * [Command line for the win](./command_line_for_the_win)
+* [0x0A. Configuration management](./0x0A-configuration_management)
+* [0x0B. SSH](./0x0B-ssh)
 
 ## Author :Kelvin Mutuku:
 
-* __Kelvin Mutuku__ <https://github.com/Kelvin Mutuku>
+* __Kelvin Mutuku__ <https://github.com/KelvinMutuku>
