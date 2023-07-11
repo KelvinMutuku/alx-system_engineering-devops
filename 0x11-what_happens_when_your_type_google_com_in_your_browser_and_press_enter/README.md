@@ -1,4 +1,4 @@
-t happens when you type google.com in your browser and press Enter
+What happens when you type google.com in your browser and press Enter
 
 In this project, I am asked to write an article to explain all about the web 2.0 infrusture. Understanding this concept is very important for me as a fullstack software engineer.
 
