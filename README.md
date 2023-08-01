@@ -26,6 +26,11 @@ contained follows:
 * [0x10. HTTPS SSL](./0x10-https_ssl)
 * [Attack is the best defense](./attack_is_the_best_defense)
 * [Command line for the win](./command_line_for_the_win)
+* [0x11. What happens when you type google.com in your browser and press Enter](./0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter)
+* [0x12. Web stack debugging #2](./0x12-web_stack_debugging_2)
+* [0x13. Firewall](./0x13-firewall)
+* [0x14. MySQL](./0x14-mysql)
+* [0x15. API](./0x15-api)
 
 ## Author :Kelvin Mutuku:
 
