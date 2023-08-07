@@ -16,7 +16,8 @@
 -10:20 AM PST: The engineer corrected the configuration file and restarted the Nginx server.
 
 -10:30 AM PST: The website was restored to service.
-*Root Cause and Resolution
+
+#Root Cause and Resolution
 
 The root cause of the issue was a configuration error in the Nginx server. The configuration file for the Nginx server was missing a line that specified the amount of memory that the server could use. This caused the server to crash when it exceeded the amount of memory that it was allowed to use.
 
